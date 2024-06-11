@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wallet:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-11T15:41:49.666621198+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 2dca90305805a7922c59182b4e9ff7244c5f5eeec17f721dc4428709e2947197
+    name: wallet
+    type: application
+    urls:
+    - https://PabloMarrtinez.github.io/helm-charts/wallet-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-11T15:41:49.666388911+02:00"
